@@ -4,4 +4,4 @@
 
 
 
-[Моя первая работа на HTML+CSS](https://github.com/Dektrio/resume/)
+[Моя первая работа на HTML+CSS](https://dektrio.github.io/resume/)
