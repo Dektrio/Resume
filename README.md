@@ -4,4 +4,4 @@
 
 
 
-[Моя первая работа на HTML+CSS] (https://github.com/Dektrio/resume/deployments/activity_log?environment=github-pages)
+[Моя первая работа на HTML+CSS](https://github.com/Dektrio/resume/deployments/activity_log?environment=github-pages)
